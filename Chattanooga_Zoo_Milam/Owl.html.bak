@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<!-- This is my own work -->
+<head>
+<title>Chattonooga Zoo</title>
+<nav>
+  <ul class="breadcrumbs">
+   <a href="Web Activity 3_TMilam.html">Home</a>>
+  </ul>
+</nav>
+<title>Chattanooga Zoo</title>
+</br></br>
+</br></br>
+<h1 style="text-align:center;">Owls</h1>
+
+
+<meta charset="utf-8"/>
+	<meta name="keywords" content="Parrots, Gorillas, Owls, Giraffes">
+
+</head>
+
+
+
+
+<img src="logo.png" height="85" style="position:absolute; top:0px; right:0px"/>
+
+
+
+
+<body bgcolor="lightblue">
+
+<h2>Chattanooga Zoo Owls</h2>
+<ol>
+<li><b>Barred Owls</b><br/>This is an owl you will find near middle TN,
+</br>such as Nashville and the surrounding areas. </br>consectetur adipiscing elit.</br> 
+Mauris non nibh nec urna dignissim feugiat. </br>
+Cras vitae viverra purus,</br> at convallis odio. Ut nec lectus urna. </br>
+Donec egestas, massa finibus tincidunt mollis,</br> mi dui varius tellus, </br>
+at elementum sapien diam non quam.</br> Mauris et ultricies mauris.<br/><img width="400" src="barred.png"/>
+<li><b>Great Horned Owls</b><br/>This owl is very distinctive.</br>It has bright yellow eyes and is one of<br/>
+the most recognizable owls. </br>consectetur adipiscing elit.</br> 
+Mauris non nibh nec urna dignissim feugiat. </br>
+Cras vitae viverra purus,</br> at convallis odio. Ut nec lectus urna. </br>
+Donec egestas, massa finibus tincidunt mollis,</br> mi dui varius tellus, </br>
+at elementum sapien diam non quam.</br> Mauris et ultricies mauris.<br/><img width="400" src="great horned owl.png"/>
+<li><b>Barn Owls</b><br/>As the name implies, you can find this owl in a barn</br>
+These owls like peace and quiet above all else.<br/> If you disturb them then they will leave.</br>consectetur adipiscing elit.</br> 
+Mauris non nibh nec urna dignissim feugiat. </br>
+Cras vitae viverra purus,</br> at convallis odio. Ut nec lectus urna. </br>
+Donec egestas, massa finibus tincidunt mollis,</br> mi dui varius tellus, </br>
+at elementum sapien diam non quam.</br> Mauris et ultricies mauris.</br><img width="400" src="barn owl.png"/>
+<li><b>Eastern Screech Owl</b><br/>These are the most numerous owls in Tennessee.
+</br>If you go outside in the middle of the night,<br/>
+you might be able to see one fly by!</br>consectetur adipiscing elit.</br> 
+Mauris non nibh nec urna dignissim feugiat. </br>
+Cras vitae viverra purus,</br> at convallis odio. Ut nec lectus urna. </br>
+Donec egestas, massa finibus tincidunt mollis,</br> mi dui varius tellus, </br>
+at elementum sapien diam non quam.</br> Mauris et ultricies mauris.<br/><img width="400" src="eastern.png"/>
+</ol>
+<hr><hr>
+
+<img src="owls.gif" alt="Owls" style="width:648px;">
+<h1 style="text-align:left;">Meet all of these owls at the Chattonooga Zoo!</h1>
+
+<h1>View more owls and different types!</h1>
+<h2>See more owl content <a href="owlcollection.html">here.</a></h2>
+
+</ol>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+<footer>
+	Designed by Taylor Milam &#8226 15 Mar 2022<br>
+	Visit me at: TNU.edu<br>
+	Main Campus &nbsp &nbsp Nashville, TN
+</footer>
+
+
+
+</html>

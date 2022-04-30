@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<!-- This is my own work -->
+<head>
+<img src="logo.png" height="85" style="position:absolute; top:0px; right:0px"/>
+<nav>
+  <ul class="breadcrumbs">
+   <a href="Web Activity 3_TMilam.html">Home</a>>
+  </ul>
+</nav>
+<title>Chattanooga Zoo</title>
+</br></br>
+
+
+<meta charset="utf-8"/>
+	<meta name="keywords" content="Parrots, Gorillas, Owls, Giraffes">
+
+</head>
+
+<body bgcolor="lightergreen">
+
+
+
+
+
+
+<img src="tall.png" alt="Giraffe" width="550" style="float:left">
+
+
+<br/><br/><br/>
+
+<h1 style="text-align:left;">Giraffes<br/><br/><br/><br/>
+ are<br/><br/><br/><br/> <u><i>big</i></u><br/><br/><br/><br/> news.<br/><br/><br/><br/> </h1>
+<h3>Giraffes are the <u>tallest</u> animals at the Chattanooga Zoo.<br/> They are herbivores. They are such tall animals so<br/>
+that they can reach the food at the top of a tall tree!<br/>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.</br> Mauris non nibh nec urna dignissim feugiat.<br/>
+Cras vitae viverra purus, at convallis odio. Ut nec lectus urna.</br> Donec egestas, massa finibus tincidunt mollis,<br/>
+mi dui varius tellus, at elementum sapien diam non quam.</br> Mauris et ultricies mauris. Praesent dapibus,<br/>
+nisi id accumsan cursus, urna diam tincidunt neque,</br> a viverra magna orci sit amet justo. Ut sit amet gravida quam,<br/>
+lobortis faucibus dolor.
+<br/><br/><br/>
+<hr>
+<h1>Come see giraffes and other animals at the Chattanooga Zoo</h1>
+
+<h2>See more giraffe content <a href="giraffecollection.html">here.</a></h2>
+
+
+
+<footer>
+	Designed by Taylor Milam &#8226 15 Mar 2022<br>
+	Visit me at: TNU.edu<br>
+	Main Campus &nbsp &nbsp Nashville, TN
+</footer>
+
+
+</html>
